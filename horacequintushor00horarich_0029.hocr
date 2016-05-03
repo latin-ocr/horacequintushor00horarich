@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horacequintushor00horarich_0029.png"; bbox 0 0 2134 3554; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1680 1678">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1680 1678">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1680 1678; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1680 1678; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 416 1782 1532 1932">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 416 1782 1532 1932">
+     <span class='ocr_line' id='line_1_2' title="bbox 463 1782 1532 1823; baseline 0.009 -9"><span class='ocrx_word' id='word_1_2' title='bbox 463 1782 651 1816; x_wconf 72' lang='lat' dir='ltr'>SKETCH</span> <span class='ocrx_word' id='word_1_3' title='bbox 679 1783 784 1817; x_wconf 81' lang='grc' dir='ltr'>ΜΑΡ</span> <span class='ocrx_word' id='word_1_4' title='bbox 809 1785 873 1818; x_wconf 78' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_5' title='bbox 896 1785 994 1819; x_wconf 87' lang='grc' dir='ltr'>ΤΗΕ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1018 1787 1250 1821; x_wconf 76' lang='lat' dir='ltr'>COUNTRY</span> <span class='ocrx_word' id='word_1_7' title='bbox 1276 1789 1409 1823; x_wconf 76' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1435 1790 1532 1823; x_wconf 86' lang='grc' dir='ltr'>ΤΗΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 419 1838 1529 1883; baseline 0.008 -12"><span class='ocrx_word' id='word_1_9' title='bbox 419 1838 835 1873; x_wconf 71' lang='lat' dir='ltr'>MEDITERRANEAN</span> <span class='ocrx_word' id='word_1_10' title='bbox 854 1842 919 1874; x_wconf 87' lang='lat' dir='ltr'>TO</span> <span class='ocrx_word' id='word_1_11' title='bbox 937 1842 1174 1876; x_wconf 72' lang='lat' dir='ltr'>HORACE&#39;S</span> <span class='ocrx_word' id='word_1_12' title='bbox 1189 1844 1335 1878; x_wconf 76' lang='lat' dir='ltr'>FARM.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1368 1846 1529 1883; x_wconf 66' lang='lat' dir='ltr'>SCALE.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 416 1896 1173 1932; baseline 0.005 -4"><span class='ocrx_word' id='word_1_14' title='bbox 416 1896 585 1928; x_wconf 73' lang='lat' dir='ltr'>ABOUT</span> <span class='ocrx_word' id='word_1_15' title='bbox 616 1897 651 1929; x_wconf 79' lang='lat'>16</span> <span class='ocrx_word' id='word_1_16' title='bbox 678 1896 813 1929; x_wconf 73' lang='lat' dir='ltr'>MILES</span> <span class='ocrx_word' id='word_1_17' title='bbox 842 1897 904 1929; x_wconf 81' lang='lat' dir='ltr'>TO</span> <span class='ocrx_word' id='word_1_18' title='bbox 929 1898 1026 1931; x_wconf 86' lang='grc' dir='ltr'>ΤΗΕ</span> <span class='ocrx_word' id='word_1_19' title='bbox 1051 1898 1173 1932; x_wconf 83' lang='lat' dir='ltr'>INCH.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
